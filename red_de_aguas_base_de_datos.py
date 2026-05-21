@@ -496,7 +496,3 @@ if __name__ == "__main__":
     app = Simulador()
     app.iniciar()
  
-a = RedDistribucion().estaciones
-b = RedDistribucion().tuberias
-
-print(f"{a}, {b}")
